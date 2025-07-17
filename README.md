@@ -1,6 +1,6 @@
 # Telegram_Notifications
 
-e are excited to announce the release of Telegram Notifications, a free WordPress plugin designed to keep website owners informed with real-time updates sent directly to their Telegram chats. This lightweight and user-friendly plugin seamlessly integrates with WordPress sites to deliver instant notifications for key events, ensuring you stay connected with your site's activity.
+We are excited to announce the release of Telegram Notifications, a free WordPress plugin designed to keep website owners informed with real-time updates sent directly to their Telegram chats. This lightweight and user-friendly plugin seamlessly integrates with WordPress sites to deliver instant notifications for key events, ensuring you stay connected with your site's activity.
 
 Key Features
 
